@@ -76,20 +76,36 @@ const kushal = {
 
 ## 🚀 Featured Projects
 
-### 🌐 **Project 1**: Full Stack Web Application
-- **Tech Stack**: React, Node.js, MongoDB, Express
-- **Features**: User authentication, CRUD operations, responsive design
-- **Status**: 🚧 In Progress
+### 💬 **Strivo: The Chat App** 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SLASH27KushaL/STRIVO)
 
-### 💻 **Project 2**: Competitive Programming Solutions
-- **Platform**: LeetCode, Codeforces
-- **Languages**: C++, Python
-- **Focus**: Data Structures & Algorithms
+**Tech Stack:** `React.js` `Node.js` `MongoDB` `Socket.io` `Material UI` `JWT`
 
-### 🔧 **Project 3**: Open Source Contributions
-- **Type**: Bug fixes, feature enhancements
-- **Communities**: Various open source projects
-- **Impact**: Helping developers worldwide
+- Built a full-stack chat platform enabling real-time 1-on-1 and group communication for **100+ concurrent users** using Socket.io, featuring persistent chat history, typing indicators, online status tracking, and optimized message delivery for low-latency performance
+- Secured application endpoints by implementing **JWT-based authentication** along with role-based access control (RBAC), ensuring protected user sessions, restricted access to private routes, and prevention of unauthorized data exposure
+- Implemented group chat features including chat-room creation, live user indicators, and delivery tracking across **50+ active conversations**
+
+---
+
+### 🎉 **Chillr** 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SLASH27KushaL/CHILLR)
+
+**Tech Stack:** `Next.js` `Node.js` `MongoDB` `Express.js` `Chart.js`
+
+- Engineered a dual-portal event platform; real-time dashboards helped clients track engagement and improve **ticket sales by 18%**
+- Developed a client-side dashboard to manage **40+ events** with analytics on views, revenue, and ticket sales
+- Built a user portal supporting event discovery, filtering, and **200+ ticket-related** test interactions
+
+---
+
+### 📊 **CF Daily** 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mayank230106/cf-daily)
+
+**Tech Stack:** `HTML` `Tailwind CSS` `JavaScript` `Chrome Extension API`
+
+- Developed a Chrome extension that delivers a new Codeforces problem daily for **40+ users**
+- Enabled problem filtering by difficulty and tags through **Codeforces API integration**
+- Integrated an interactive heatmap to visualize user streaks and improve **engagement by 35%**
 
 ---
 
