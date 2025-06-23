@@ -113,7 +113,7 @@ const kushal = {
 
 <div align="center">
   
-  **LeetCode**: 500+ Problems Solved | **Codeforces**: Specialist Rating
+  **LeetCode**: 300+ Problems Solved | **Codeforces**: Specialist Rating
   
   ![LeetCode Stats](https://leetcard.jacoblin.cool/slash_27?theme=dark&font=Karma&ext=contest)
   
