@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kushal Kishore</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | C++ Enthusiast | IIT (ISM) Dhanbad</h3>
+<h3 align="center">🚀 Aspiring Full Stack Developer | IIT (ISM) Dhanbad</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Welcome+to+my+GitHub!;Building+cool+projects;Lifelong+learner+%F0%9F%93%9A" alt="Typing SVG" />
@@ -35,8 +35,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushalkishore&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushalkishore&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SLASH27KushaL
+&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SLASH27KushaL
+&theme=tokyonight" height="150"/>
 </p>
 
 ---
