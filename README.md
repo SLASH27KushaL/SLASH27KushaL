@@ -9,10 +9,6 @@
 
 ## 👨‍🎓 About Me
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6A00,100:F70000&height=150&section=header&text=Aspiring%20Developer&fontSize=40&fontColor=ffffff" />
-</p>
-
 - 🎓 **College:** Indian Institute of Technology (ISM), Dhanbad  
 - 🌱 Currently learning **TypeScript**, **Next.js**, and **System Design**  
 - 💻 Passionate about **Full Stack Development** & **Competitive Programming**  
@@ -28,12 +24,29 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SLASH27KushaL&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SLASH27KushaL&theme=radical" height="170"/>
 </p>
+
+---
+
+## 🔝 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLASH27KushaL&layout=compact&theme=radical&langs_count=8" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://github.com/SLASH27KushaL/SLASH27KushaL/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+*👉 Setup required for this animation — ask me if you want help setting this up properly.*
 
 ---
 
@@ -53,8 +66,16 @@
 
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+---
+
+## 👀 Visitors Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SLASH27KushaL&style=flat-square&color=FF6A00" />
+</p>
+
+---
 
 ## ⚡ Fun Fact
 
 > *“Code is like humor. When you have to explain it, it’s bad.”*
+
