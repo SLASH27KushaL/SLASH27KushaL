@@ -67,7 +67,10 @@ const kushal = {
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SLASH27KushaL&theme=tokyonight" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SLASH27KushaL&show_icons=true&show_streak=true&theme=tokyonight"
+    alt="GitHub Stats with Streak"
+  />
 </p>
 
 
