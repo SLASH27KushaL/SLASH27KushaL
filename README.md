@@ -66,11 +66,10 @@ const kushal = {
   
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SLASH27KushaL&theme=tokyonight)
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SLASH27KushaL&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 ---
 
