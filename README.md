@@ -66,10 +66,6 @@ const kushal = {
   
 </div>
 
-<p align="center">
- ![GitHub Streak](https://streak-stats.demolab.com?user=SLASH27KushaL&theme=tokyonight)
-
-</p>
 
 
 
