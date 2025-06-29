@@ -131,15 +131,7 @@ const kushal = {
 
 ---
 
-## 📈 Activity Graph
 
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SLASH27KushaL&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=626880&point=f8d847&area=true&hide_border=true)
-  
-</div>
-
----
 
 
 
