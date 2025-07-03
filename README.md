@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/faf07705-4429-4ed9-a55c-1eac9c6b4293)# Hi there! 👋 I'm **Kushal Kishore**
+# Hi there! 👋 I'm **Kushal Kishore**
 
 <div align="center">![octocat-1751564726996](https://github.com/user-attachments/assets/af7e1fd5-246d-4e52-9b3b-057acb22d2bd)
 
