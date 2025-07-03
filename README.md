@@ -1,5 +1,4 @@
-# Hi there! 👋 I'm **Kushal Kishore**![octocat-1751564726996](https://github.com/user-attachments/assets/0b0cee17-d598-410c-9710-5c86385ccff6)
-
+# Hi there! 👋 I'm **Kushal Kishore**!
   
   **🚀 Aspiring Full Stack Developer | IIT (ISM) Dhanbad**
   
