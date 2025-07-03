@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm **Kushal Kishore**
-![octocat-1751564726996](https://github.com/user-attachments/assets/c8952804-0460-4115-8aea-f85553240ce6)
+(https://github.com/user-attachments/assets/c8952804-0460-4115-8aea-f85553240ce6)
 
 <div align="center">![octocat-1751564726996](https://github.com/user-attachments/assets/af7e1fd5-246d-4e52-9b3b-057acb22d2bd)
 
